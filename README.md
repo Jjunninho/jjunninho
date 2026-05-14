@@ -1,35 +1,20 @@
-<!--
-**Jjunninho/jjunninho** é um repositório ✨ _especial_ ✨ porque o `README.md` (este arquivo) aparece no seu perfil do GitHub.
+# Olá, eu sou o José Carlos (Jjunninho) 👨‍💻
 
-Aqui estão algumas ideias para você começar:
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e entusiasta de programação criativa. Abaixo estão meus principais projetos organizados por categoria:
 
-Olá! 👋 Bem-vindo ao meu perfil
-🔭 Atualmente estou trabalhando em:
+### 🎹 Ferramentas MIDI e Áudio
+*   **Gerador Semântico MID**: [Acesse aqui](https://jjunninho.github.io/Gerador_Semantico_MID/)
+*   **Chipgen Editor**: [Acesse aqui](https://jjunninho.github.io/Chipgen_Editor/)
+*   **Chipgen (Core)**: [Acesse aqui](https://jjunninho.github.io/Chipgen/)
+*   **Clonador de Estilos MID**: [Acesse aqui](https://jjunninho.github.io/Clonador_Estilos_MID/)
+*   **Djmid Player**: [Acesse aqui](https://jjunninho.github.io/Djmid_player/)
 
-Projetos de computação embarcada e sistemas de segurança (gerador de entropia)
-Explorando blockchain, contratos inteligentes e DeFi
+### 🎮 Jogos e Experiências Procedurais
+*   **Tower**: [Jogue aqui](https://jjunninho.github.io/Tower/)
+*   **TARS (Descida Infinita)**: [Jogue aqui](https://jjunninho.github.io/tars_entombed/)
+*   **Voxel Genesis**: [Acesse aqui](https://jjunninho.github.io/voxel_genesis/)
+*   **Jogo Mineiro**: [Jogue aqui](https://jjunninho.github.io/jogo_mineiro/)
 
-🌱 Atualmente estou aprendendo:
-
-Programação avançada (Python, JavaScript)
-Frameworks modernos (React, Vue.js, Angular)
-Matemática para finanças quantitativas e criptografia
-Tecnologias blockchain e contratos inteligentes
-
-💡 Interesses:
-
-História da computação e tecnologias antigas
-Arquitetura de videogames clássicos e otimização
-Criptografia e geração de números aleatórios verdadeiros (TRNG)
-Engenharia de software e desenvolvimento web
-
-🚀 Áreas de foco:
-
-Computação embarcada (ESP32, Arduino, microcontroladores)
-Segurança da informação e criptografia
-Desenvolvimento de interfaces e arte digital
-Matemática aplicada à programação
-
-⚡ Curiosidade:
-Acredito no poder da IA como ferramenta para ampliar possibilidades - transformando ideias em realidade!
+### 🛠️ Utilitários e Estudos
+*   **Alien Generator**: [Acesse aqui](https://jjunninho.github.io/Alien_Generator/)
+*   **Analisador Circumplex**: [Acesse aqui](https://jjunninho.github.io/Analisador_circumplex/)
